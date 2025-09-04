@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" additionalparam=" -encoding UTF-8 -docencoding UTF-8 -charset UTF-8 -author -version -use -splitindex -tag created:a:&quot;Created:&quot; -tag description:a:&quot;Description:&quot;&#13;&#10;" author="true" classpath="." destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="21" sourcefiles="src/iuh/fit/se/TestRectangle.java" sourcepath="src" splitindex="true" use="true" version="true">
+            <link href="https://docs.oracle.com/en/java/javase/21/docs/api/"/>
+        </javadoc>
+    </target>
+</project>
